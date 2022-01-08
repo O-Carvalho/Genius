@@ -12,7 +12,7 @@
 
 
 ## Sobre o Genius
-Genius é um jogo de memório cujo o bjetivo é desafiar os participantes a acertarem a sequencia de cores proposta pelo jogo.
+Genius é um jogo de memória cujo objetivo é desafiar os participantes a acertarem a sequencia de cores proposta pelo jogo.
 <br>
 
 ## Tecnologias
