@@ -2,11 +2,6 @@
 
 <br>
 
-## Sobre o Genius
-Genius é um jogo de memório cujo o bjetivo é desafiar os participantes a acertarem a sequencia de cores proposta pelo jogo.
-
-<br>
-
 ## Tópicos 
 
 [Sobre o Genius](#sobre-o-genius)
@@ -14,6 +9,11 @@ Genius é um jogo de memório cujo o bjetivo é desafiar os participantes a acer
 [Tecnologias](#tecnologias)
 
 [Licença](#licença)
+
+<br>
+
+## Sobre o Genius
+Genius é um jogo de memório cujo o bjetivo é desafiar os participantes a acertarem a sequencia de cores proposta pelo jogo.
 
 <br>
 
@@ -29,7 +29,6 @@ Genius é um jogo de memório cujo o bjetivo é desafiar os participantes a acer
 <a href="https://opensource.org/licenses/MIT">
     <img alt="License" src="https://img.shields.io/badge/license-MIT-6E40C9?style=flat-square">
 </a>
-
 <br>
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
