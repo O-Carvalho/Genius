@@ -1,0 +1,82 @@
+:root {
+    --body-bg-color: #ffffff;
+    --orange: #ee780a;
+    --green: #008000;
+    --yellow: #ffff00;
+    --red: #ff0000;
+    --blue: #0000ff;
+    --black: #000000;
+  }
+
+body {
+    margin: 0;
+    background-color:var(--body-bg-color);
+}
+
+.main-game {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.genius {
+    display: grid;
+    grid-template-areas: 'verde vermelho'
+    'amarelo azul';
+    grid-gap: 10px;
+    border: 1px solid var(--black);
+    background-color: var(--black);
+    border-radius: 100%;
+    width: 700px;
+    height: 700px;
+}
+
+.blue {
+    grid-area: azul;
+    background-color: var(--blue);
+    border-bottom-right-radius: 100%;
+}
+
+.red {
+    grid-area: vermelho;
+    background-color: var(--red);
+    border-top-right-radius: 100%;
+}
+
+.yellow {
+    grid-area: amarelo;
+    background-color: var(--yellow);
+    border-bottom-left-radius: 100%;
+}
+
+.green {
+    grid-area: verde;
+    background-color: var(--green);
+    border-top-left-radius: 100%;
+}
+
+.selected {
+    opacity: 0.7;
+}
+
+.back {
+    box-sizing: border-box;
+    width: 200px;
+    height: 100px;
+    background-color: var(--orange);
+    border: solid 2px var(--black);
+    border-radius: 40%;
+    margin: 40em 4em 5em 8em;
+    padding: 0.3em 3.7em;
+}
+.back :hover {
+    color: var(--body-bg-color);
+}
+
+.txback {
+    font-size: 30px;
+    color: black;
+}
+
